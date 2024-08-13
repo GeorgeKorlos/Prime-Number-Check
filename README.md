@@ -1,0 +1,1 @@
+The Prime Number Checker is a Python script that determines if a given number is a prime number. A prime number is a positive integer greater than 1 that has no positive integer divisors other than 1 and itself.
